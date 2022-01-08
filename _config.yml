@@ -26,10 +26,15 @@ primarylinks:
 skills:
   - Azure IaaS
   - Powershell
-  - Devops Toolspace: Git, Azure Devops, Docker, Kubernetes
+  - Git
+  - Azure Devops
+  - Docker
+  - Kubernetes
   - Microservices
-  - SQL Databases: MS SQL, PostgreSQl
-  - Servers: Linux, Windows
+  - MS SQL
+  - PostgreSQl
+  - Linux
+  - Windows
   - Technical Architecture
   - DevSecOps Enthusiast
 
