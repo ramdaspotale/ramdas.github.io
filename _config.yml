@@ -70,14 +70,10 @@ education:
 coursera:
   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
   courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+    - title: Microsoft Certified: Azure Administrator Associate
+      link: https://www.credly.com/badges/523079ed-4e94-4a0d-bcc4-a69518229428
+      optionalimage: https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png
+      date: Valid Date January 28, 2023
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
