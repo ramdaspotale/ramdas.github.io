@@ -68,7 +68,6 @@ education:
 
 #This section is optional (as is the image link below)
 certifications:
-  profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
   courses:
     - title: Microsoft Certified - Azure Administrator Associate
       link: https://www.credly.com/badges/523079ed-4e94-4a0d-bcc4-a69518229428
