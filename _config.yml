@@ -67,7 +67,7 @@ education:
     school: Dr. Babasaheb Ambedkar Technological University, Lonere-Raigad, Maharashtra-India
 
 #This section is optional (as is the image link below)
-certifications earned:
+certifications:
   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
   courses:
     - title: Microsoft Certified - Azure Administrator Associate
